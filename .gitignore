@@ -4,6 +4,9 @@
 # Emacs
 *~
 
+# Obsidian
+*/.obsidian/*
+
 # History files
 .Rhistory
 .Rapp.history
