@@ -5,6 +5,7 @@
 The main applications for the workshop are
 - RStudio
 - git
+
 Please have both installed prior to the workshop, using the instructions below if needed.
 
 R is a programming language designed for statistical computation. RStudio is a popular third party "integrated development environment" (IDE) that runs on top of R, and provides a text editor, file and package manager, help system, console, and more. Both are open source and free.
