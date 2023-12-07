@@ -7,7 +7,7 @@ further background on specific topics.
 
 There are two companion repos for exercises:
 - Exercise 1: [Linear regression demo](https://github.com/brownritt/nsgp_data_science_ex1)
-- Exercise 2: [Git practice repo](https://github.com/brownritt/nsgp_data_science_ex1)
+- Exercise 2: [Git practice repo](https://github.com/brownritt/nsgp_data_science_ex2)
 
 ## Installation
 
